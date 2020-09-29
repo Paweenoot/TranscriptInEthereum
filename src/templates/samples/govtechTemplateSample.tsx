@@ -64,55 +64,55 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "103101",
           name: "Calculus I",
           courseCredit: "4",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "105101",
           name: "Physics I",
           courseCredit: "4",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "105191",
           name: "Physics Laboratory I",
           courseCredit: "1",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "202108",
           name: "Digital Litercy",
           courseCredit: "2",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "202109",
           name: "Use of application programs for learning",
           courseCredit: "1",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "213101",
           name: "English for communication 1",
           courseCredit: "3",
-          grade: "S",
+          grade: "S"
         },
         {
           courseCode: "213201",
           name: "English for communication 2",
           courseCredit: "3",
-          grade: "S",
+          grade: "S"
         },
         {
           courseCode: "525101",
           name: "Engineering graphics I",
           courseCredit: "2",
-          grade: "B",
+          grade: "B"
         }
       ],
       creditEarned: "20",
       totalCredit: "20",
       GPA: "3.57",
-      GPAX: "3.57",
+      GPAX: "3.57"
     },
     {
       trimester: "Second trimester 2017",
@@ -121,43 +121,43 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "103102",
           name: "Calculus II",
           courseCredit: "4",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "105102",
           name: "Physics II",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "105192",
           name: "Physics Laboratory II",
           courseCredit: "1",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "202201",
           name: "Life skills",
           courseCredit: "3",
-          grade: "B",
+          grade: "B"
         },
         {
           courseCode: "213101",
           name: "English for academic purposes",
           courseCredit: "3",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523101",
           name: "Computer programming I",
           courseCredit: "2",
-          grade: "A",
+          grade: "A"
         }
       ],
       creditEarned: "17",
       totalCredit: "37",
       GPA: "3.71",
-      GPAX: "3.65",
+      GPAX: "3.65"
     },
     {
       trimester: "Third trimester 2017",
@@ -166,37 +166,37 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "102111",
           name: "Fundamental chemistry I",
           courseCredit: "4",
-          grade: "C+",
+          grade: "C+"
         },
         {
           courseCode: "105191",
           name: "Fundamental chemistry Laboratory I",
           courseCredit: "1",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "103105",
           name: "Calculus III",
           courseCredit: "4",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "202202",
           name: "Citizenship and global citizens",
           courseCredit: "3",
-          grade: "B",
+          grade: "B"
         },
         {
           courseCode: "525101",
           name: "Engineering materials I",
           courseCredit: "4",
-          grade: "C+",
+          grade: "C+"
         }
       ],
       creditEarned: "16",
       totalCredit: "53",
       GPA: "2.91",
-      GPAX: "3.39",
+      GPAX: "3.39"
     },
     {
       trimester: "First trimester 2018",
@@ -205,37 +205,37 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "523201",
           name: "Computer programming II",
           courseCredit: "2",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "523203",
           name: "Problem solving with programming",
           courseCredit: "2",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523271",
           name: "Electronics for computer engineering",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523275",
           name: "Computer mathematics",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523312",
           name: "Knowledge discovery and data mining",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         }
       ],
       creditEarned: "16",
       totalCredit: "69",
       GPA: "3.94",
-      GPAX: "3.53",
+      GPAX: "3.53"
     },
     {
       trimester: "Second trimester 2018",
@@ -244,43 +244,43 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "202203",
           name: "Man, society and environment",
           courseCredit: "3",
-          grade: "B",
+          grade: "B"
         },
         {
           courseCode: "213204",
           name: "English for specific purposes",
           courseCredit: "3",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523231",
           name: "Data structures and algorithms",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523232",
           name: "Object-oriented technology",
           courseCredit: "4",
-          grade: "C+",
+          grade: "C+"
         },
         {
           courseCode: "523271",
           name: "Electronics laboratory for computer engineering",
           courseCredit: "1",
-          grade: "B",
+          grade: "B"
         },
         {
           courseCode: "523273",
           name: "Digital system design",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         }
       ],
       creditEarned: "19",
       totalCredit: "88",
       GPA: "3.47",
-      GPAX: "3.52",
+      GPAX: "3.52"
     },
     {
       trimester: "Third trimester 2018",
@@ -289,43 +289,43 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "203401",
           name: "Chinese I",
           courseCredit: "3",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523211",
           name: "Database systems",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523251",
           name: "Programming fundamentals",
           courseCredit: "4",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "523274",
           name: "Digital system laboratory",
           courseCredit: "1",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523276",
           name: "Computer architecture and organization",
           courseCredit: "4",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "601111",
           name: "Spiritual health care",
           courseCredit: "3",
-          grade: "A",
+          grade: "A"
         }
       ],
       creditEarned: "19",
       totalCredit: "107",
       GPA: "3.79",
-      GPAX: "3.57",
+      GPAX: "3.57"
     },
     {
       trimester: "First trimester 2019",
@@ -334,37 +334,37 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "202207",
           name: "Man, economy and development",
           courseCredit: "3",
-          grade: "C+",
+          grade: "C+"
         },
         {
           courseCode: "523301",
           name: "Computer statistics",
           courseCredit: "2",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523331",
           name: "System analysis and design",
           courseCredit: "4",
-          grade: "B",
+          grade: "B"
         },
         {
           courseCode: "523351",
           name: "Formal methods and computability",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523371",
           name: "Microprocessors",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         }
       ],
       creditEarned: "17",
       totalCredit: "124",
       GPA: "3.50",
-      GPAX: "3.56",
+      GPAX: "3.56"
     },
     {
       trimester: "Second trimester 2019",
@@ -373,43 +373,43 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "202331",
           name: "Asean studies",
           courseCredit: "2",
-          grade: "B",
+          grade: "B"
         },
         {
           courseCode: "523315",
           name: "Machine learning fundamentals",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523332",
           name: "Software engineering",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523352",
           name: "Computer and communication",
           courseCredit: "4",
-          grade: "B+",
+          grade: "B+"
         },
         {
           courseCode: "523354",
           name: "Operating systems",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523355",
           name: "Introduction to blockchain technology",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         }
       ],
       creditEarned: "22",
       totalCredit: "146",
       GPA: "3.82",
-      GPAX: "3.60",
+      GPAX: "3.60"
     },
     {
       trimester: "Third trimester 2019",
@@ -418,37 +418,37 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
           courseCode: "202175",
           name: "Art appreciation",
           courseCredit: "2",
-          grade: "C+",
+          grade: "C+"
         },
         {
           courseCode: "202324",
           name: "Pluri-cultural thai studies",
           courseCredit: "2",
-          grade: "B",
+          grade: "B"
         },
         {
           courseCode: "203411",
           name: "Japanese I",
           courseCredit: "3",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523314",
           name: "Introduction to natural language processing",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         },
         {
           courseCode: "523353",
           name: "Computer Network",
           courseCredit: "4",
-          grade: "A",
+          grade: "A"
         }
       ],
       creditEarned: "15",
       totalCredit: "161",
       GPA: "3.67",
-      GPAX: "3.61",
+      GPAX: "3.61"
     },
   ],
   certSignatories: {
