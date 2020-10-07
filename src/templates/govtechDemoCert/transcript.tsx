@@ -18,7 +18,7 @@ export const TranscriptTemplate: FunctionComponent<TemplateProps<GovtechOpencert
 
       {i < 7 && (<div>
         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-        <b>{t.trimester}</b>
+        <b>{t.trimester + " trimester " + t.year}</b>
         {t.subject.map((s) => (
           <tr>
             <td >&emsp;
@@ -49,7 +49,7 @@ export const TranscriptTemplate: FunctionComponent<TemplateProps<GovtechOpencert
 
       {i > 6 && (<div>
         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;
-        <b>{t.trimester}</b>
+        <b>{t.trimester + " trimester " + t.year}</b>
         {t.subject.map((s) => (
           <tr>
             <td >&emsp;

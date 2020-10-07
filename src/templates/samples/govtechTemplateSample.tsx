@@ -20,6 +20,7 @@ export interface GovtechOpencertsTemplateCertificate extends Document {
   };
   transcript: {
     trimester: string;
+    year: string;
     subject: {
       courseCode: string;
       name: string;
@@ -58,7 +59,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
   },
   transcript: [
     {
-      trimester: "First trimester 2017",
+      trimester: "First",
+      year: "2017",
       subject: [
         {
           courseCode: "103101",
@@ -115,7 +117,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.57"
     },
     {
-      trimester: "Second trimester 2017",
+      trimester: "Second",
+      year: "2017",
       subject: [
         {
           courseCode: "103102",
@@ -160,7 +163,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.65"
     },
     {
-      trimester: "Third trimester 2017",
+      trimester: "Third",
+      year: "2017",
       subject: [
         {
           courseCode: "102111",
@@ -199,7 +203,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.39"
     },
     {
-      trimester: "First trimester 2018",
+      trimester: "First",
+      year: "2018",
       subject: [
         {
           courseCode: "523201",
@@ -238,7 +243,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.53"
     },
     {
-      trimester: "Second trimester 2018",
+      trimester: "Second",
+      year: "2018",
       subject: [
         {
           courseCode: "202203",
@@ -283,7 +289,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.52"
     },
     {
-      trimester: "Third trimester 2018",
+      trimester: "Third",
+      year: "2018",
       subject: [
         {
           courseCode: "203401",
@@ -328,7 +335,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.57"
     },
     {
-      trimester: "First trimester 2019",
+      trimester: "First",
+      year: "2019",
       subject: [
         {
           courseCode: "202207",
@@ -367,7 +375,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.56"
     },
     {
-      trimester: "Second trimester 2019",
+      trimester: "Second",
+      year: "2019",
       subject: [
         {
           courseCode: "202331",
@@ -412,7 +421,8 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
       GPAX: "3.60"
     },
     {
-      trimester: "Third trimester 2019",
+      trimester: "Third",
+      year: "2019",
       subject: [
         {
           courseCode: "202175",
