@@ -109,10 +109,10 @@ export const TranscriptTemplate: FunctionComponent<TemplateProps<GovtechOpencert
             <div className="col">
               <div className="row">
                 <div className="col"><b>NAME &emsp;
-                  {document.recipient.nameENG}
+                {document.recipient.nameTitleENG} {document.recipient.nameENG}
                   <br />
                   &emsp;&emsp;&emsp;&emsp;&nbsp;
-                  {document.recipient.nameTH}
+                  {document.recipient.nameTitleTH}{document.recipient.nameTH}
                 </b></div>
               </div>
               <div className="row">
@@ -219,7 +219,7 @@ export const TranscriptTemplate: FunctionComponent<TemplateProps<GovtechOpencert
               }}
                 src={get(document, "certSignatories.signature")} />
               <div className="transcript"><br />
-                {get(document, "certSignatories.name")}
+              {get(document, "certSignatories.nameTitleREG")} {get(document, "certSignatories.name")}
                 <br />
                 {get(document, "certSignatories.position")},{" "}
                 <br />
