@@ -54,7 +54,7 @@ export const customTemplateCertificate: GovtechOpencertsTemplateCertificate = {
     prevCert: "M.6 / March 29, 2017",
     instituteOf: "Engineering",
     degreeTH: "วิศวกรรมศาสตรบัณฑิต (วิศวกรรมคอมพิวเตอร์)",
-    degreeENG: "Bachelor of Engineering (Computer engineering)",
+    degreeENG: "Bachelor of Engineering (Computer Engineering)",
     studentID: "B6012345",
     identNum: "1424567890156",
     nation: "Thai",
